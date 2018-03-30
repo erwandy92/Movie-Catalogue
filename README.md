@@ -12,3 +12,6 @@ The app consists of:
 * [Loopj](https://github.com/loopj/android-async-http) - An Asynchronous HTTP Library for Android
 * [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
 * [JustifiedTextView](https://github.com/ufo22940268/android-justifiedtextview) - Used to justify TextView in Android
+
+## API
+* [TheMovieDB](https://www.themoviedb.org) - Provide movie lists

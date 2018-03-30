@@ -15,3 +15,6 @@ The app consists of:
 
 ## API
 * [TheMovieDB](https://www.themoviedb.org) - Provide movie lists
+
+### Created For
+This project was coded specially for a Project designed by [Dicoding](https://www.dicoding.com), course of [Menjadi Android Developer Expert](https://www.dicoding.com/academies/14).

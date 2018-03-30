@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">Dicoding Catalogue Movie</string>
+<string name="masukkan_nama_film">Cari Movie</string>
+<string name="nama_movie">nama_movie</string>
+<string name="cari">CARI</string>
+<string name="title">Title</string>
+<string name="description">Description</string>
+<string name="date">Date of Release</string>
+</resources>
